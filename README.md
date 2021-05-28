@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Sobre o desafio!
 
-- <p>No primeiro desafio da trilha NodeJS do Ignite tivemos uma aplicação de gerenciamento de tarefas (To Do) 📝</p>
+- <p>No primeiro desafio do Chapter I do Ignite tivemos uma aplicação de gerenciamento de tarefas (To Do) 📝</p>
 - <p>Todo o CRUD da aplicação foi implementado! 🚀</p>
 
 ## 🚀 Tecnologias
